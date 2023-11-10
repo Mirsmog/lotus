@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Solo Sans';
+  src: url('../fonts/SoloSans-Light.eot');
+  src: local('Solo Sans Light'), local('SoloSans-Light'),
+    url('../fonts/SoloSans-Light.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SoloSans-Light.woff2') format('woff2'),
+    url('../fonts/SoloSans-Light.woff') format('woff'),
+    url('../fonts/SoloSans-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Solo Sans';
+  src: url('../fonts/SoloSans-Bold.eot');
+  src: local('Solo Sans Bold'), local('SoloSans-Bold'),
+    url('../fonts/SoloSans-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SoloSans-Bold.woff2') format('woff2'),
+    url('../fonts/SoloSans-Bold.woff') format('woff'),
+    url('../fonts/SoloSans-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Solo Sans';
+  src: url('../fonts/SoloSans-Regular.eot');
+  src: local('Solo Sans Regular'), local('SoloSans-Regular'),
+    url('../fonts/SoloSans-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SoloSans-Regular.woff2') format('woff2'),
+    url('../fonts/SoloSans-Regular.woff') format('woff'),
+    url('../fonts/SoloSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
